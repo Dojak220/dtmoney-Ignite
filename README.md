@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Dojak220/dtmoney-Ignite/blob/master/assets/logo.svg">
-    <img src="https://github.com/Dojak220/dtmoney-Ignite/blob/master/assets/logo.svg" height="150" width="175" alt="Todo" />
+  <a href="https://github.com/Dojak220/dtmoney-Ignite/blob/master/src/assets/logo.svg">
+    <img src="https://github.com/Dojak220/dtmoney-Ignite/blob/master/src/assets/logo.svg" height="150" width="175" alt="dtmoney" />
   </a>
 </p>
 
