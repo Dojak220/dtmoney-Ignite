@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://github.com/Dojak220/dtmoney-Ignite/blob/master/assets/logo.svg">
+    <img src="https://github.com/Dojak220/dtmoney-Ignite/blob/master/assets/logo.svg" height="150" width="175" alt="Todo" />
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Visão Geral
 
-## Available Scripts
+Com essa aplicação, objetiva-se gerenciar o fluxo financeiro pessoal e reforçar alguns dos conceitos básicos do React.
 
-In the project directory, you can run:
+<!-- ![todoApp](https://github.com/Dojak220/dtmoney-Ignite/blob/master/readme/todoApp.png) -->
 
-### `yarn start`
+## Acesse
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Link](https://github.com/Dojak220/dtmoney-Ignite) para a aplicação
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<!--  ## Exemplos de uso -->
 
-### `yarn test`
+<!-- Para adicionar uma tarefa, basta digitar o título dela no campo de texto e clicar no botão verde ao lado dele para confirmar:
+<!-- ![adicionar_tarefa](https://github.com/Dojak220/dtmoney-Ignite/blob/master/readme/adicionar_tarefa.png) -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- Para concluir uma tarefa, basta clicar na caixa vazia ao lado esquerdo da tarefa desejada: -->
+<!-- ![tarefa_concluida](https://github.com/Dojak220/dtmoney-Ignite/blob/master/readme/tarefa_concluida.png) -->
 
-### `yarn build`
+<!-- Para apagar uma tarefa, basta clicar no ícone da lixeira vermelha ao lado direito da tarefa desejada: -->
+<!-- ![tarefa_apagada](https://github.com/Dojak220/dtmoney-Ignite/blob/master/readme/tarefa_apagada.png) -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Setup para desenvolvimento
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1) Abra o terminal em um diretório de sua preferência
+2) Digite os seguintes comandos:
+    
+    2.1) Para baixar/clonar o repositório em seu computador:
+      ```sh
+      git clone https://github.com/Dojak220/dtmoney-Ignite.git
+      cd dtmoney-Ignite
+      ```
+      
+    2.2) Para instalar as dependências e rodar o app:
+      ```sh
+      yarn install
+      yarn start
+      ```
 
-### `yarn eject`
+## Informações
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Feito por: Dorgival Rocha | 
+[![LinkedIn Bagde](https://img.shields.io/badge/-Dorgival%20Rocha-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dorgivalrocha/)](https://www.linkedin.com/in/dorgivalrocha/)
+[![GitLab Bagde](https://img.shields.io/badge/-dojak220@ufrn.edu.br-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:dojak220@ufrn.edu.br)](mailto:dojak220@ufrn.edu.br)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[https://github.com/Dojak220](https://github.com/Dojak220)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contributing
 
-## Learn More
+1. Fork it (<https://github.com/Dojak220/dtmoney-Ignite/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- README inspired by https://github.com/dbader/readme-template -->
